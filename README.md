@@ -44,7 +44,8 @@ int main(void)
 	return 0; }
 ,,,
 ##OUTPUT
-![316412389-eee79ac8-23fb-4cb7-8b53-3b095d6cbc6d](https://github.com/shivanshyam79/Linux-Process-API-fork-wait-exec/assets/151513860/61fa7829-2a3a-4615-81de-0beecec7f42b)
+
+![image](https://github.com/shivanshyam79/Linux-Process-API-fork-wait-exec/assets/151513860/506e7421-e8cb-4c98-921b-f8546e888a7c)
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
@@ -66,6 +67,8 @@ exit(0);}
 
 ##OUTPUT
 
+![image](https://github.com/shivanshyam79/Linux-Process-API-fork-wait-exec/assets/151513860/650137cf-3735-4f49-b924-c29d99d1d587)
+
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
 #include <unistd.h>
@@ -80,7 +83,8 @@ int main()
 }
 ,,,
 ##OUTPUT
-![316740580-7c8740eb-ea50-477f-8aab-5db463399d0d](https://github.com/shivanshyam79/Linux-Process-API-fork-wait-exec/assets/151513860/40dbf4c6-aefa-460e-972b-f2334c2fbf54)
+
+![image](https://github.com/shivanshyam79/Linux-Process-API-fork-wait-exec/assets/151513860/f087cfae-6d62-45c8-9d9a-5bbaccd03ede)
 
 # RESULT:
 The programs are executed successfully.
